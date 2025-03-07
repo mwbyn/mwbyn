@@ -2,7 +2,9 @@
 
 ![king](https://github.com/user-attachments/assets/d36b989f-96a7-48cd-9e84-5618c6dfd5f2)
 
-Game developer
+Game developer🎮
+
+Email: mawbynn@gmail.com
 
 <!--
 **mwbyn/mwbyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
