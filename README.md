@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<img src=https://cdn.discordapp.com/attachments/985046547672727604/1347502273244430441/king.gif?ex=67cc0ec9&is=67cabd49&hm=7202ab7fa9eba78bdaa3fad73a60b66797a373cf07f4fc5c940e2e81a5a33843& alt=king align=right>
+
+Game developer
+
 <!--
 **mwbyn/mwbyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
