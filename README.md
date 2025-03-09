@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![king](https://github.com/user-attachments/assets/a35466f8-d3d6-43bb-8954-ef5a876f5294)
+![king](https://github.com/user-attachments/assets/82e915a4-e7ea-4969-9d0c-160dc5046a2e)
 
 Game developer🎮
 
